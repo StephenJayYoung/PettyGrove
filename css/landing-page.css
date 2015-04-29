@@ -37,6 +37,8 @@ h6 {
     color: #f8f8f8;
     background: url("http://static1.squarespace.com/static/54d289f8e4b0f1b69683c10f/54d28a59e4b0526a66686edf/54fe894ee4b0bb15efbf2660/1425967449648/_MG_3543.jpg") no-repeat center center;
     background-size: cover;
+    box-shadow: inset 0 0 0 1000px rgba(0,50,50,.75);
+
 }
 
 .intro-message {
@@ -119,6 +121,7 @@ h6 {
     background-color: black;
     /*background: url(../img/banner-bg.jpg) no-repeat center center;*/
     background-size: cover;
+
 }
 
 .banner h2 {
@@ -171,13 +174,20 @@ p.copyright {
 }
 
 #about {
-    background-color: black;
+    background-color: #191919;
     color: white;
     padding-top: 50px;
-    padding-bottom: 50px;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    padding-bottom: 75px;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.5);
 }
 
-#about .h3{
-    font-size: 150%;
+
+.WhoWeAre {
+    padding-top: 75px;
+}
+
+.Resume {
+    color: white;
+    background-color: black;
+    font-size: 18px;
 }
