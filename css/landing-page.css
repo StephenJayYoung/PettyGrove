@@ -185,7 +185,7 @@ p.copyright {
     padding-bottom: 75px;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.5);
     background: url("../img/FlagPhoto.jpg") no-repeat center center;
-    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.6);
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
 }
 
 
