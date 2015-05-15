@@ -235,3 +235,8 @@ a:active {
   padding: ((@navbarHeight - @elementHeight) / 2 - 2) 20px ((@navbarHeight - @elementHeight) / 2 + 2);
 }
 
+#mugshot {
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
