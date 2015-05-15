@@ -230,9 +230,11 @@ a:active {
 }
 /* end link stuff*/
 
+
+
 /*navbar stuff*/
 .navbar {
-  background-color: black;
+  background-color: white;
   padding: 2px 5px 6px 10px;
   border: 0 !important;
 }
@@ -246,16 +248,16 @@ a:active {
 }
 
 .navbar-header {
-    font-weight: bold;
+  font-weight: bold;
   font-family:'Open Sans', sans-serif;
   background-color: black;
   border: 0 !important;
 }
 
 .navbar-collapse {
-    font-weight: bold;
+  font-weight: bold;
   font-family:'Open Sans', sans-serif;
-  background-color: black;
+  background-color: white;
   text-align: center;
   border: 0 !important;
 }
@@ -265,8 +267,12 @@ ul.nav a:hover {
 }
 
 .navbar .nav > li > a {
-    color:  white;
+    color:  black;
 }
 /*end avbar stuff*/
 
+#pmfgLogo {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
 
