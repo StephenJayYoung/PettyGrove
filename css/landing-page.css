@@ -230,5 +230,8 @@ a:active {
 }
 /* end link stuff*/
 
-
+.navbar .brand {
+  @elementHeight: 32px;
+  padding: ((@navbarHeight - @elementHeight) / 2 - 2) 20px ((@navbarHeight - @elementHeight) / 2 + 2);
+}
 
