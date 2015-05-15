@@ -230,5 +230,43 @@ a:active {
 }
 /* end link stuff*/
 
+/*navbar stuff*/
+.navbar {
+  background-color: black;
+  padding: 2px 5px 6px 10px;
+  border: 0 !important;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+  border: 0 !important;
+  font-size: 1.2em;
+}
+
+.navbar-header {
+    font-weight: bold;
+  font-family:'Open Sans', sans-serif;
+  background-color: black;
+  border: 0 !important;
+}
+
+.navbar-collapse {
+    font-weight: bold;
+  font-family:'Open Sans', sans-serif;
+  background-color: black;
+  text-align: center;
+  border: 0 !important;
+}
+
+ul.nav a:hover { 
+  color: gray !important;
+}
+
+.navbar .nav > li > a {
+    color:  white;
+}
+/*end avbar stuff*/
 
 
