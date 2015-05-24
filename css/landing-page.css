@@ -241,3 +241,27 @@ a:active {
     padding-left: 25px;
 }
 
+/*CSS for making the Navbar transparent*/
+.navbar-inner {
+  background: none !important; 
+  border: 0 !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+}
+
+.navbar-inverse .nav .active > a {
+  background: 0 !important; 
+  color: #333 !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+}
+
+.navbar-inverse .nav > li > a {
+  color: #333 !important;
+  text-shadow: none !important;
+}
+
+.navbar-inverse .nav > li > a:hover {
+  color: #333 !important;
+}
+/*End CSS for making Navbar transparent*/
