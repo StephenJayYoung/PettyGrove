@@ -259,6 +259,15 @@ a:active {
     font-weight: 6em;
 }
 
+.whoWeAreParagraph {
+    color: white;
+    border-style: solid;
+    border-color: white ;
+    background-color: black;
+    opacity: .5;
+/*color: rgba(255, 255, 255, 0.952941);*/
+
+}
 
 /*End CSS for making Navbar transparent*/
 
