@@ -275,5 +275,10 @@ a:active {
 
 }
 
-/*End CSS for making Navbar transparent*/
+.jmarPhoto {
+    border:1px solid white;
+}
 
+.chadCowellPhoto {
+    border:1px solid white;
+}
