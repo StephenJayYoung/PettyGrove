@@ -192,7 +192,6 @@ p.copyright {
 /*    background: url("../img/MountainPic1.jpg") no-repeat center center;*/
     /*box-shadow: inset 0 0 0 1000px rgba(0,0,0,.8);*/
     background-color: white;
-    font-size: 20px;
     
 }
 
@@ -274,5 +273,4 @@ a:active {
 }
 
 /*End CSS for making Navbar transparent*/
-
 
